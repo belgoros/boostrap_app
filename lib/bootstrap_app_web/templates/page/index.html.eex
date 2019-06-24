@@ -5,7 +5,9 @@
 
 <section class="row">
   <article class="column">
-    <h2>Resources</h2>
+    <h2>
+      Resources
+    </h2>
     <ul>
       <li>
         <a href="https://hexdocs.pm/phoenix/overview.html">Guides &amp; Docs</a>
@@ -30,6 +32,7 @@
       <li>
         <a href="https://twitter.com/elixirphoenix">Twitter @elixirphoenix</a>
       </li>
+      <li><i class="far fa-check-square"></i>Icon</li>
     </ul>
   </article>
 </section>
