@@ -1,5 +1,7 @@
 # BootstrapApp
 
+Example Phoenix app using [Bootstrap 4](https://getbootstrap.com/) and [Fontawesome Free](https://fontawesome.com/) frameworks.
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
